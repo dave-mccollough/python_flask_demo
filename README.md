@@ -1,1 +1,1 @@
-This is sample Python Flask application.
+This is sample Python Flask application. For study
